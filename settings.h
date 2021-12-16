@@ -35,7 +35,7 @@ const int SLEEP_INTERVAL_SECS = 0;   // Going to Sleep after idle times, set 0 f
 #define TFT_CS 0
 #define TFT_LED 5
 
-#define HAVE_TOUCHPAD
+//#define HAVE_TOUCHPAD
 #define TOUCH_CS 16
 //#define TOUCH_IRQ  4
     
@@ -46,7 +46,7 @@ const int SLEEP_INTERVAL_SECS = 0;   // Going to Sleep after idle times, set 0 f
 // https://home.openweathermap.org/users/sign_up
 const boolean IS_METRIC = true;
 String OPEN_WEATHER_MAP_APP_ID = "ascowijcawjr390r2834q";
-String OPEN_WEATHER_MAP_LOCATION = "Manhattan,US";
+String OPEN_WEATHER_MAP_LOCATION = "Toronto,CA";
 
 // Pick a language code from this list:
 // Arabic - ar, Bulgarian - bg, Catalan - ca, Czech - cz, German - de, Greek - el,

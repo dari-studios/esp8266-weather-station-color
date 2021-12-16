@@ -57,7 +57,7 @@ See more at https://blog.squix.org
 
 #define MINI_BLACK 0
 #define MINI_WHITE 1
-#define MINI_YELLOW 2
+#define MINI_YELLOW 1
 #define MINI_BLUE 3
 
 #define MAX_FORECASTS 12
